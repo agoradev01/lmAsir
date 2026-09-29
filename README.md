@@ -1,2 +1,2 @@
 # lmAsir
-Repositorio para la case de Lenguaje de Marcas ASIR1
+Repositorio para la clase de Lenguaje de Marcas ASIR1
